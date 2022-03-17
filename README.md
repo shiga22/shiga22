@@ -5,6 +5,6 @@
 - 📫 How to reach me ? You can whatsapp me at 7904477977 or mail me at shigaedutainment@gmail.com
 
 <!---
-shiga22/shiga22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shiga22/Shiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
